@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-28",
+  "status": "passed",
+  "skills": [
+    {
+      "name": "homestay-arch-orchestrator",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 10
+    },
+    {
+      "name": "homestay-arch-brief",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-site",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-constraints",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 2
+    },
+    {
+      "name": "homestay-arch-program",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-siteplan",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-massing",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-guestrooms",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-public-spaces",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-back-of-house",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-circulation",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-sections",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-envelope",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-coordination",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    },
+    {
+      "name": "homestay-arch-delivery",
+      "official_format": "passed",
+      "discovery_metadata": "passed",
+      "internal_links_checked": 3
+    }
+  ],
+  "official_formats_passed": 15,
+  "internal_links_checked": 51,
+  "repositories": 5,
+  "reviewed_source_skill_files": 13,
+  "license_copies_verified": 5,
+  "scope": "Package structure, official format, metadata, local references and saved provenance; not design behavior."
+}

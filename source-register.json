@@ -1,0 +1,145 @@
+[
+  {
+    "id": "GH-A",
+    "repository": "AlpacaLabsLLC/skills-for-architects",
+    "commit": "78a17571623708acb31984655a5df873c88bb734",
+    "checked_at": "2026-10-28",
+    "license": "MIT",
+    "license_source_url": "https://github.com/AlpacaLabsLLC/skills-for-architects/blob/78a17571623708acb31984655a5df873c88bb734/LICENSE",
+    "license_sha256": "533bb0acd17ab9e3381ccc45a867cb1608f2d5857323de6ad40ca480ead9deba",
+    "adopted_method": "环境与到达分析、逐空间面积、同范围数量对账",
+    "targets": "homestay-arch-site、program、siteplan、circulation、coordination、delivery",
+    "files": [
+      {
+        "path": "skills/environmental-analysis/SKILL.md",
+        "sha256": "dfa72a202aa73509e62f1f8f863fa4352278f21ae873f72c720d2e9cfeedb04e",
+        "source_url": "https://github.com/AlpacaLabsLLC/skills-for-architects/blob/78a17571623708acb31984655a5df873c88bb734/skills/environmental-analysis/SKILL.md",
+        "adopted_at": "site执行3及场地专题：地理/统计期/原始来源和未核实事项"
+      },
+      {
+        "path": "skills/mobility-analysis/SKILL.md",
+        "sha256": "3e479359b7c944a7e1d85e04fdf3cc6a05e755f09358d2fcb5c2d5dd855f900f",
+        "source_url": "https://github.com/AlpacaLabsLLC/skills-for-architects/blob/78a17571623708acb31984655a5df873c88bb734/skills/mobility-analysis/SKILL.md",
+        "adopted_at": "site执行4、siteplan及circulation：到达方式与末段服务联系"
+      },
+      {
+        "path": "skills/schedule-quantity-reconcile/SKILL.md",
+        "sha256": "7498fed696ff6844abd8df9e6563dcaa217ba4f3b5acd81219d69eab83696a49",
+        "source_url": "https://github.com/AlpacaLabsLLC/skills-for-architects/blob/78a17571623708acb31984655a5df873c88bb734/skills/schedule-quantity-reconcile/SKILL.md",
+        "adopted_at": "coordination执行5及检查表：同范围、修订、单位、重复/缺失与零值区分"
+      },
+      {
+        "path": "skills/workplace-programmer/SKILL.md",
+        "sha256": "f8bf28f01a8425550accb6daebf9bd1603a7aa123dabbf9c3890134ad7c3d0ac",
+        "source_url": "https://github.com/AlpacaLabsLLC/skills-for-architects/blob/78a17571623708acb31984655a5df873c88bb734/skills/workplace-programmer/SKILL.md",
+        "adopted_at": "program执行2—3：数量、单元面积、口径与余量；改为民宿空间与人数口径"
+      }
+    ]
+  },
+  {
+    "id": "GH-B",
+    "repository": "Abhinavbwj/Skills-Architects",
+    "commit": "30a0845dddcaebd765fc396059573d02e99c5b63",
+    "checked_at": "2026-10-28",
+    "license": "MIT",
+    "license_source_url": "https://github.com/Abhinavbwj/Skills-Architects/blob/30a0845dddcaebd765fc396059573d02e99c5b63/LICENSE",
+    "license_sha256": "8b60991ca36a7509828e15c377c164e1eb9bb976ce7ec43ac7f64007522bb319",
+    "adopted_method": "邻接矩阵、房间数据表、空间组织、方案比选及围护控制层",
+    "targets": "homestay-arch-program、massing、guestrooms、public-spaces、back-of-house、circulation、envelope",
+    "files": [
+      {
+        "path": "skills/building-envelope/SKILL.md",
+        "sha256": "e1cb4562441809691ec44cbe0f78290dcba7192a6ac5c514754e9f9e5465cfd4",
+        "source_url": "https://github.com/Abhinavbwj/Skills-Architects/blob/30a0845dddcaebd765fc396059573d02e99c5b63/skills/building-envelope/SKILL.md",
+        "adopted_at": "envelope执行3及围护检查：控制层与窗、屋面、门槛交接，不采用数值表"
+      },
+      {
+        "path": "skills/building-programming/SKILL.md",
+        "sha256": "b442ac334c201a03d53472e982f3a0de4a809f9a9c6ef17821ec1b5b1780ca80",
+        "source_url": "https://github.com/Abhinavbwj/Skills-Architects/blob/30a0845dddcaebd765fc396059573d02e99c5b63/skills/building-programming/SKILL.md",
+        "adopted_at": "program邻接矩阵及guestrooms房型数据表：空间关系与实例，不采用原面积配比"
+      },
+      {
+        "path": "skills/concept-design/SKILL.md",
+        "sha256": "ccfd082c8714b6c484a10f4312406e4c6c6a66ab776036bd5fb0d306254e3e4e",
+        "source_url": "https://github.com/Abhinavbwj/Skills-Architects/blob/30a0845dddcaebd765fc396059573d02e99c5b63/skills/concept-design/SKILL.md",
+        "adopted_at": "massing：同任务范围的候选、场地响应与解释选择理由"
+      },
+      {
+        "path": "skills/spatial-planning/SKILL.md",
+        "sha256": "ed41a80bfe210361133eaa11c9ce80144b3a446bee53917bec827dce56b46580",
+        "source_url": "https://github.com/Abhinavbwj/Skills-Architects/blob/30a0845dddcaebd765fc396059573d02e99c5b63/skills/spatial-planning/SKILL.md",
+        "adopted_at": "circulation寻路节点、public-spaces和back-of-house关系检查"
+      }
+    ]
+  },
+  {
+    "id": "GH-C",
+    "repository": "constructelligence-lab/construction-agent-skills",
+    "commit": "f05ffdf70b650582a4a12181d6fedcc9b3ae56f1",
+    "checked_at": "2026-10-28",
+    "license": "CC BY 4.0",
+    "license_source_url": "https://github.com/constructelligence-lab/construction-agent-skills/blob/f05ffdf70b650582a4a12181d6fedcc9b3ae56f1/LICENSE",
+    "license_sha256": "7c7bf4c2f74396aae63258618ce081df319ca910374255334696c2402d4f440c",
+    "adopted_method": "按后期修复影响排序的可建造性问题、区分真实冲突与模型误差、责任答复与复查",
+    "targets": "homestay-arch-sections、envelope、coordination",
+    "files": [
+      {
+        "path": "skills/constructability-risk-review/SKILL.md",
+        "sha256": "ef49731926758cf3ebd415aecc8ed8262a5b49bc752be3636e25b8f1937215f3",
+        "source_url": "https://github.com/constructelligence-lab/construction-agent-skills/blob/f05ffdf70b650582a4a12181d6fedcc9b3ae56f1/skills/constructability-risk-review/SKILL.md",
+        "adopted_at": "sections问题交接、envelope施工维护、coordination可建造性问题排序"
+      },
+      {
+        "path": "skills/mep-coordination-clash-triage/SKILL.md",
+        "sha256": "71f7905c333d6c415254a617ae6847e9496668d665e934672a72026fb5493e8f",
+        "source_url": "https://github.com/constructelligence-lab/construction-agent-skills/blob/f05ffdf70b650582a4a12181d6fedcc9b3ae56f1/skills/mep-coordination-clash-triage/SKILL.md",
+        "adopted_at": "coordination执行3、6及冲突表：真冲突/模型误差、责任决策与复查"
+      }
+    ]
+  },
+  {
+    "id": "GH-D",
+    "repository": "mohitagw15856/pm-claude-skills",
+    "commit": "4391fb006db13fe898f40a897bc369337a64e4e5",
+    "checked_at": "2026-10-28",
+    "license": "MIT",
+    "license_source_url": "https://github.com/mohitagw15856/pm-claude-skills/blob/4391fb006db13fe898f40a897bc369337a64e4e5/LICENSE",
+    "license_sha256": "18a87eaf5c6017a3ffc7a3c4927627d530cc1541406cb3e705576a1b8c47c6bd",
+    "adopted_method": "从活动形成任务书、早期面积投资对照、将场地约束转为设计后果",
+    "targets": "homestay-arch-brief、site、program、public-spaces",
+    "files": [
+      {
+        "path": "plugins/pm-architecture/skills/architectural-programme-brief/SKILL.md",
+        "sha256": "15949081125a2d0c54b1c1af116ea9199e5864ac460f247d76c283caccc455e9",
+        "source_url": "https://github.com/mohitagw15856/pm-claude-skills/blob/4391fb006db13fe898f40a897bc369337a64e4e5/plugins/pm-architecture/skills/architectural-programme-brief/SKILL.md",
+        "adopted_at": "brief执行1、4、5：活动优先、预算范围与显式排除事项"
+      },
+      {
+        "path": "plugins/pm-architecture/skills/site-analysis-report/SKILL.md",
+        "sha256": "bbdd9141217e6743df3bc5263d04a85efdc1532717ab5c4af1f926f7618a0315",
+        "source_url": "https://github.com/mohitagw15856/pm-claude-skills/blob/4391fb006db13fe898f40a897bc369337a64e4e5/plugins/pm-architecture/skills/site-analysis-report/SKILL.md",
+        "adopted_at": "site执行2、5：区分现状与建设条件、约束到设计后果"
+      }
+    ]
+  },
+  {
+    "id": "GH-E",
+    "repository": "nbharathik/ifc-skills",
+    "commit": "5b52282c3e1423dd6172044d504c6fcc3aa0798c",
+    "checked_at": "2026-10-28",
+    "license": "MIT",
+    "license_source_url": "https://github.com/nbharathik/ifc-skills/blob/5b52282c3e1423dd6172044d504c6fcc3aa0798c/LICENSE",
+    "license_sha256": "09af5659304c826f1683f391a61ea9617e6ce020ebeb3537b21690e8b500908c",
+    "adopted_method": "模型schema/单位/坐标检查、GlobalId对象追踪、区分数量来源与只读查询",
+    "targets": "project-contract、homestay-arch-coordination、delivery",
+    "files": [
+      {
+        "path": "skills/ifc/SKILL.md",
+        "sha256": "55f0dc8a7094f2b63d5a0c27a91f541485b0e9a0ffbb0209e54c3b1c09799db4",
+        "source_url": "https://github.com/nbharathik/ifc-skills/blob/5b52282c3e1423dd6172044d504c6fcc3aa0798c/skills/ifc/SKILL.md",
+        "adopted_at": "共享约定与coordination的IFC检查：schema、独立单位、对象映射和量的来源"
+      }
+    ]
+  }
+]

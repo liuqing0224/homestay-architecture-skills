@@ -1,0 +1,4 @@
+interface:
+  display_name: "建设与设计条件核验"
+  short_description: "围绕民宿建筑建设与设计条件核验组织设计工作，核对输入条件、版本关系和交付成果"
+  default_prompt: "使用 $homestay-arch-constraints，基于当前民宿项目资料完成建设与设计条件核验，交付对应设计成果和待确认事项。"

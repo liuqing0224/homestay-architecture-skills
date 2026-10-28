@@ -1,0 +1,4 @@
+interface:
+  display_name: "建筑校审与成果交付"
+  short_description: "围绕民宿建筑建筑校审与成果交付组织设计工作，核对输入条件、版本关系和交付成果"
+  default_prompt: "使用 $homestay-arch-delivery，基于当前民宿项目资料完成建筑校审与成果交付，交付对应设计成果和待确认事项。"

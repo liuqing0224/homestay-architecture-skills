@@ -1,0 +1,6 @@
+{
+  "date": "2026-10-28",
+  "command": "python3 -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "scope": "Installer file safety and observable install/check/rollback behavior"
+}

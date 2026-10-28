@@ -1,0 +1,15 @@
+test_catalog_mismatch_stops_preflight (test_install.InstallTests.test_catalog_mismatch_stops_preflight) ... ok
+test_complete_install_and_check (test_install.InstallTests.test_complete_install_and_check) ... ok
+test_conflict_prevents_partial_install (test_install.InstallTests.test_conflict_prevents_partial_install) ... ok
+test_copy_failure_removes_owned_partial_directories (test_install.InstallTests.test_copy_failure_removes_owned_partial_directories) ... ok
+test_dry_run_leaves_target_absent (test_install.InstallTests.test_dry_run_leaves_target_absent) ... ok
+test_extra_install_file_is_detected (test_install.InstallTests.test_extra_install_file_is_detected) ... ok
+test_modified_install_is_detected (test_install.InstallTests.test_modified_install_is_detected) ... ok
+test_source_symlink_is_rejected_before_writes (test_install.InstallTests.test_source_symlink_is_rejected_before_writes) ... ok
+test_target_symlink_is_rejected (test_install.InstallTests.test_target_symlink_is_rejected) ... ok
+test_unrelated_existing_skill_survives_rollback (test_install.InstallTests.test_unrelated_existing_skill_survives_rollback) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.352s
+
+OK

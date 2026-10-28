@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-28",
+  "status": "passed",
+  "scope": "Public repository file set",
+  "local_links_checked": 85,
+  "links": [
+    {
+      "from": "README.md",
+      "target": "VALIDATION.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-orchestrator/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-brief/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-site/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-constraints/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-program/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-siteplan/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-massing/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-guestrooms/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-public-spaces/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-back-of-house/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-circulation/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-sections/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-envelope/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-coordination/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-delivery/SKILL.md"
+    },
+    {
+      "from": "README.md",
+      "target": "SOURCES.md"
+    },
+    {
+      "from": "README.md",
+      "target": "THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "README.md",
+      "target": "skills/homestay-arch-orchestrator/references/routing-and-handoffs.md"
+    },
+    {
+      "from": "README.md",
+      "target": "VALIDATION.md"
+    },
+    {
+      "from": "SOURCES.md",
+      "target": "source-register.json"
+    },
+    {
+      "from": "SOURCES.md",
+      "target": "skills/homestay-arch-orchestrator/references/routing-and-handoffs.md"
+    },
+    {
+      "from": "SOURCES.md",
+      "target": "THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "from": "THIRD_PARTY_NOTICES.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "validation/package.json"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "validation/package.json"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "validation/package.json"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "validation/document-links.json"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "source-register.json"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "validation/package.json"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "validation/installer-tests.txt"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "validation/installer-tests.json"
+    },
+    {
+      "from": "VALIDATION.md",
+      "target": "validation/content-review.md"
+    },
+    {
+      "from": "skills/homestay-arch-back-of-house/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-back-of-house/SKILL.md",
+      "target": "skills/homestay-arch-back-of-house/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-back-of-house/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-brief/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-brief/SKILL.md",
+      "target": "skills/homestay-arch-brief/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-brief/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-circulation/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-circulation/SKILL.md",
+      "target": "skills/homestay-arch-circulation/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-circulation/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-constraints/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-constraints/SKILL.md",
+      "target": "skills/homestay-arch-constraints/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-coordination/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-coordination/SKILL.md",
+      "target": "skills/homestay-arch-coordination/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-coordination/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-delivery/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-delivery/SKILL.md",
+      "target": "skills/homestay-arch-delivery/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-delivery/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-envelope/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-envelope/SKILL.md",
+      "target": "skills/homestay-arch-envelope/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-envelope/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-guestrooms/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-guestrooms/SKILL.md",
+      "target": "skills/homestay-arch-guestrooms/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-guestrooms/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-massing/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-massing/SKILL.md",
+      "target": "skills/homestay-arch-massing/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-massing/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/assets/project-state.md"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/routing-and-handoffs.md"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/references/upstream-methods.md",
+      "target": "skills/homestay-arch-orchestrator/references/licenses/GH-A.txt"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/references/upstream-methods.md",
+      "target": "skills/homestay-arch-orchestrator/references/licenses/GH-B.txt"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/references/upstream-methods.md",
+      "target": "skills/homestay-arch-orchestrator/references/licenses/GH-C.txt"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/references/upstream-methods.md",
+      "target": "skills/homestay-arch-orchestrator/references/licenses/GH-D.txt"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/references/upstream-methods.md",
+      "target": "skills/homestay-arch-orchestrator/references/licenses/GH-E.txt"
+    },
+    {
+      "from": "skills/homestay-arch-orchestrator/references/upstream-methods.md",
+      "target": "skills/homestay-arch-orchestrator/references/licenses/GH-C.txt"
+    },
+    {
+      "from": "skills/homestay-arch-program/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-program/SKILL.md",
+      "target": "skills/homestay-arch-program/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-program/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-public-spaces/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-public-spaces/SKILL.md",
+      "target": "skills/homestay-arch-public-spaces/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-public-spaces/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-sections/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-sections/SKILL.md",
+      "target": "skills/homestay-arch-sections/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-sections/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-site/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-site/SKILL.md",
+      "target": "skills/homestay-arch-site/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-site/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    },
+    {
+      "from": "skills/homestay-arch-siteplan/SKILL.md",
+      "target": "skills/homestay-arch-orchestrator/references/project-contract.md"
+    },
+    {
+      "from": "skills/homestay-arch-siteplan/SKILL.md",
+      "target": "skills/homestay-arch-siteplan/references/checklist.md"
+    },
+    {
+      "from": "skills/homestay-arch-siteplan/references/checklist.md",
+      "target": "skills/homestay-arch-orchestrator/references/upstream-methods.md"
+    }
+  ]
+}

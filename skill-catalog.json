@@ -1,0 +1,128 @@
+[
+  {
+    "name": "homestay-arch-orchestrator",
+    "title": "民宿建筑设计总控",
+    "description": "编排民宿建筑从经营任务书、场地、方案到专业协调与阶段交付。用于完整民宿建筑项目、多环节设计变更，或将建筑成果交给室内及后续技术设计。",
+    "upstream": []
+  },
+  {
+    "name": "homestay-arch-brief",
+    "title": "经营需求与建筑任务书",
+    "description": "把民宿经营意向和客户访谈转为建筑设计任务书。用于新建、改造民宿的客群、服务、客房、公区、后勤、投资范围和设计目标梳理。",
+    "upstream": [
+      "GH-D",
+      "GH-A"
+    ]
+  },
+  {
+    "name": "homestay-arch-site",
+    "title": "场地与现状分析",
+    "description": "整理民宿场地、测量、现状图纸、气候与到达条件。用于建筑方案前的证据底图、环境分析，或场地资料变更后的影响检查。",
+    "upstream": [
+      "GH-A",
+      "GH-D"
+    ]
+  },
+  {
+    "name": "homestay-arch-constraints",
+    "title": "建设与设计条件核验",
+    "description": "核验民宿建筑方案使用的建设条件、规划要求和适用设计依据。用于确定项目地点、用途、新建改造性质与专项条件，整理条件矩阵及冲突。",
+    "upstream": []
+  },
+  {
+    "name": "homestay-arch-program",
+    "title": "功能与面积策划",
+    "description": "把民宿活动和经营任务转为空间清单、面积平衡与邻接矩阵。用于房型组合、公区后勤配比、面积上限检查及功能需求变更。",
+    "upstream": [
+      "GH-A",
+      "GH-B",
+      "GH-D"
+    ]
+  },
+  {
+    "name": "homestay-arch-siteplan",
+    "title": "总平面与场地布局",
+    "description": "组织民宿建筑落位、场地入口、停车、庭院与室外工程接口。用于新建或改造民宿的总平方案及建筑入口、落位和室外联系调整。",
+    "upstream": [
+      "GH-A"
+    ]
+  },
+  {
+    "name": "homestay-arch-massing",
+    "title": "建筑体量与方案比选",
+    "description": "推演民宿建筑体量、组合与方案比较。用于以同一任务书比较集中式、分散式、庭院式或新旧结合等候选，并形成选定方案依据。",
+    "upstream": [
+      "GH-B"
+    ]
+  },
+  {
+    "name": "homestay-arch-guestrooms",
+    "title": "客房建筑模块",
+    "description": "设计民宿客房及套房的建筑模块、类型与组合。用于房型配比、开间进深、卫生间及管井、景观开口、私密性和客房建筑条件交接。",
+    "upstream": [
+      "GH-B"
+    ]
+  },
+  {
+    "name": "homestay-arch-public-spaces",
+    "title": "公共空间建筑设计",
+    "description": "设计民宿接待、餐饮、休闲与活动空间的建筑组织。用于公区容量、时段复用、声光环境、内外联系和与客房后勤的接口设计。",
+    "upstream": [
+      "GH-B",
+      "GH-D"
+    ]
+  },
+  {
+    "name": "homestay-arch-back-of-house",
+    "title": "后勤与运营空间",
+    "description": "组织民宿布草、清洁、仓储、备餐、员工、配送及垃圾空间。用于运营流程转为建筑需求，或客房/服务方式变化后的后勤检查。",
+    "upstream": [
+      "GH-B"
+    ]
+  },
+  {
+    "name": "homestay-arch-circulation",
+    "title": "动线与交通组织",
+    "description": "核查民宿客人、员工、行李、服务车辆及应急路径。用于建筑方案中的水平垂直交通、寻路、洁污交叉及无障碍和疏散条件交接。",
+    "upstream": [
+      "GH-A",
+      "GH-B"
+    ]
+  },
+  {
+    "name": "homestay-arch-sections",
+    "title": "剖面与地形适应",
+    "description": "组织民宿建筑剖面、楼层与场地标高，处理坡地和新旧连接。用于净高、楼梯、高差、土方挡土及排水接口的方案推演和协调。",
+    "upstream": [
+      "GH-C"
+    ]
+  },
+  {
+    "name": "homestay-arch-envelope",
+    "title": "立面屋面与气候响应",
+    "description": "深化民宿立面、门窗、屋面和气候响应策略。用于外观与开口逻辑、遮阳、雨水、围护材料及关键交接节点的建筑设计。",
+    "upstream": [
+      "GH-B",
+      "GH-C"
+    ]
+  },
+  {
+    "name": "homestay-arch-coordination",
+    "title": "专业与成本协调",
+    "description": "协调民宿建筑与结构、机电、室内、景观及成本接口。用于方案深化、跨专业冲突分级、可建造性检查及设计变更影响评估。",
+    "upstream": [
+      "GH-A",
+      "GH-C",
+      "GH-E"
+    ]
+  },
+  {
+    "name": "homestay-arch-delivery",
+    "title": "建筑校审与成果交付",
+    "description": "汇总民宿建筑方案或深化成果，核对总图、平立剖、面积、清单及专业状态。用于阶段交付、校审问题复查和向室内或后续技术设计移交。",
+    "upstream": [
+      "GH-A",
+      "GH-E"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.local/
+.DS_Store
+
+# Local project status and machine-specific evidence
+/TASK.md
+/validation/installation.json
+/validation/existing-skill-guards.json
+/validation/github-publication.json
